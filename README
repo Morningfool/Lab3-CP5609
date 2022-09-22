@@ -1,0 +1,9 @@
+
+(c) 2011 Vlad Estivill_Castro
+
+This code is provided with absolutely no warranty nd for pedagogical reasons only
+
+IN UBUNTU, this compiles by doing
+qmake -project
+qmake
+make
